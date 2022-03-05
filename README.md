@@ -1,3 +1,3 @@
 # odinlandingpage
 
-landin page for the odin project
+landing page for the odin project
